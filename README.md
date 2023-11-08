@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Gallery_1699423563437-removebg-preview](https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/f0f5b1ba-eef7-426b-b994-4ddc2f3d2fc8)
+![Gallery_1699423483346-removebg-preview](https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/3af67860-0762-4279-b1af-83c07582c9dc)
 
 ![Gallery_1699423712536-removebg-preview](https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/26b9b3d2-a22a-43fa-b0ad-fe4dc84d74fb)
 ![Gallery_1699423679798-removebg-preview](https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/1ace9441-4403-4afe-b7c9-323c43d5363e)
