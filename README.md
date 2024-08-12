@@ -21,8 +21,9 @@ A new Flutter project.
   <tr>
     <td><img src="https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/e085837d-78d1-49a1-97a4-5b344f864989" alt="Image 10" width="200"></td>
     <td><img src="https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/ead1d685-0c6a-4ad5-81b9-d59dd47fc598" alt="Image 11" width="200"></td>
-          <img src="https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/22aed7e1-551e-4433-b6a0-8a6598d2ab36" alt="Snail" width="200">
-
+ <td>
+      <img src="https://github.com/Rehman85/Snail-Taxi-App/assets/144882089/22aed7e1-551e-4433-b6a0-8a6598d2ab36" alt="Snail" width="200">
+    </td>
 
   
   </tr>
